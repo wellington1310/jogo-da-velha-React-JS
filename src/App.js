@@ -10,7 +10,6 @@ import Restart from './components/Restart';
 function App() {
 
   return (<div>
-    teste 11
 
     <Background />
 
