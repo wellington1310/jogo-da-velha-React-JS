@@ -10,7 +10,7 @@ import Restart from './components/Restart';
 function App() {
 
   return (<div>
-ghghghghg
+
     <Background />
 
     <GameBoard>
