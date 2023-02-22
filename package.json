@@ -1,7 +1,7 @@
 {
   "name": "jogo",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://jogo-da-velha-react-js.vercel.app/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
